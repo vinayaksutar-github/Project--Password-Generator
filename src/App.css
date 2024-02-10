@@ -1,0 +1,15 @@
+@font-face{
+  font-family: mine;
+  src:url(S1.ttf);
+}
+h1,label,.new,input{
+  font-family: mine;
+}
+button{
+  font-weight: bold;
+  letter-spacing: 0.2cm;
+  border: none;
+  cursor: pointer;
+  color: white;
+  padding: 1em 2em;
+}
